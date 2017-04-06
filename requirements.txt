@@ -1,0 +1,7 @@
+#
+## requirements.txt ##
+#
+# Run with 'pip install -r requirements.txt'
+
+numpy
+bokeh

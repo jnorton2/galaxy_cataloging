@@ -1,0 +1,43 @@
+{
+  "HD": {
+    "AGC": 12323.0,
+    "SUBGRID": "gridbf_1556+07d.sav",
+    "INPUT": [0,0],
+    "QLTA": [0,0],
+    "QLTB": [0,0],
+    "CSA": {
+      "PARA": [0,0],
+      "DA": [0,0],
+      "FLA": [0,0]
+    },
+    "CSB": {
+      "PARB": [0,0],
+      "DB": [0,0],
+      "FLB": [0,0]
+    },
+    "FLAG_QLT": 1
+  },
+  "D": {
+    "DBOXA": [0,0],
+    "DBOXB": [0,0],
+    "WBOXA": [0,0],
+    "WBOXB": [0,0],
+    "CBOXA": [0,0],
+    "CBOXB": [0,0],
+    "CWBOXA": [0,0],
+    "CWBOXB": [0,0]
+  },
+  "VELARR": [0,0],
+  "FRQARR": [0,0],
+  "SPECPOL": {
+    "YARRA": [0,0],
+    "YARRB": [0,0]
+  },
+  "WEIGHT": {
+    "WSPECA": [0,0],
+    "WSPECB": [0,0]
+  },
+  "RMS": [0,0],
+  "UPFLUX": 2699.801786188002,
+  "CCH": 787
+}
